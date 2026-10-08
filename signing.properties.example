@@ -1,0 +1,5 @@
+# Copia a signing.properties y configura tu certificado local. No subas la clave ni las contraseñas.
+storeFile=C:/ruta/privada/app-iot-firebase-release.jks
+storePassword=REEMPLAZAR
+keyAlias=app-iot-firebase
+keyPassword=REEMPLAZAR
